@@ -31,6 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" height="36" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36" alt="Google Cloud"/>
 
