@@ -5,5 +5,5 @@
 #### 🧑‍💻 About me
 - 🎓 CS student at [The University of Chicago](https://cs.uchicago.edu/) (Class of 2027)
 - 💻 Software Developer at [UChicago Computer Science Instructional Lab (CSIL)](https://csil.cs.uchicago.edu/)
-- 🌞 Summer 2025 Software Engineering Intern at [Data for Common Good](https://commons.cri.uchicago.edu/) (Pediatric Cancer Research) 
+- 🌞 Summer 2026 Software Engineering Intern at [HubSpot](https://www.hubspot.com/)
 - 💡 Interested in software engineering
